@@ -1,56 +1,24 @@
 {
   "shows": {
-    "ACEV|25557|20261106|RECLINERS": {
+    "ACEV|25581|20261108|RECLINERS": {
       "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "08:05 AM",
-      "date": "20261106",
-      "cat": "RECLINERS",
-      "price": "350.00",
-      "status": "3"
-    },
-    "ACEV|25557|20261106|GOLD": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "08:05 AM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ACEV|24530|20261106|RECLINERS": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "03:10 PM",
-      "date": "20261106",
+      "time": "08:10 AM",
+      "date": "20261108",
       "cat": "RECLINERS",
       "price": "350.00",
       "status": "0"
     },
-    "ACEV|24530|20261106|GOLD": {
+    "ACEV|25581|20261108|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "03:10 PM",
-      "date": "20261106",
+      "time": "08:10 AM",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
-    },
-    "ACEV|25401|20261106|RECLINERS": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "06:45 PM",
-      "date": "20261106",
-      "cat": "RECLINERS",
-      "price": "350.00",
-      "status": "0"
-    },
-    "ACEV|25401|20261106|GOLD": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "06:45 PM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "ACEV|24835|20261108|RECLINERS": {
       "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "03:10 PM",
+      "time": "03:15 PM",
       "date": "20261108",
       "cat": "RECLINERS",
       "price": "350.00",
@@ -58,21 +26,36 @@
     },
     "ACEV|24835|20261108|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "03:10 PM",
+      "time": "03:15 PM",
       "date": "20261108",
       "cat": "GOLD",
       "price": "295.00",
       "status": "2"
+    },
+    "ACEV|25513|20261108|RECLINERS": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "06:50 PM",
+      "date": "20261108",
+      "cat": "RECLINERS",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ACEV|25513|20261108|GOLD": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "06:50 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20261105": "AVAILABLE",
-    "20261106": "AVAILABLE",
-    "20261107": "AVAILABLE",
     "20261108": "BOOKABLE",
     "20261109": "AVAILABLE",
     "20261110": "AVAILABLE",
     "20261111": "AVAILABLE",
-    "20261112": "AVAILABLE"
+    "20261112": "AVAILABLE",
+    "20261113": "NOT_OPEN",
+    "20261114": "NOT_OPEN"
   }
 }
